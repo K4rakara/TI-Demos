@@ -8,4 +8,6 @@
 | - | - | - |
 | exampleDemoName | exampleAuthorName | 1-1-1970 |
 
+4. Provide a screenshot/gif of your demo in the readme.
+
 If you meet all these guidelines, feel free to make a pull request!
